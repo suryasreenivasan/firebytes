@@ -1,0 +1,8 @@
+{
+  // Matches the version live on Cloudflare at the time of download
+  // (version 78f9f8ea-7a8b-4d10-ba98-8baf1a8c2e54, uploaded 2026-11-27 04:49 UTC).
+  // Single-module Worker: all HTML, CSS and JS are embedded in worker.js. No assets, no bindings.
+  "name": "firebytes",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-01"
+}
